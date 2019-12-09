@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Solrjd_pro:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Solrjd_pro_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Solrjd_pro/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Solrjd_pro" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
